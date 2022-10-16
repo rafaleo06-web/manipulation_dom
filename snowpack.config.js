@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/rafaleo06-web/manipulation_dom',
+    baseUrl: 'https://rafaleo06-web.github.io/manipulation_dom',
   },
 }
