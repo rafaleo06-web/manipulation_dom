@@ -1,4 +1,4 @@
-{ "homepage":"https://github.com/rafaleo06-web/manipulation_dom",
+{ "homepage":"https://rafaleo06-web.github.io/manipulation_dom",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
