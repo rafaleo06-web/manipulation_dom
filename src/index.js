@@ -57,7 +57,7 @@ window
         priceAndTitle.appendChild(title);
         priceAndTitle.appendChild(shape);
         priceAndTitle.appendChild(taste);
-        priceAndTitle.appendChild(price)
+        priceAndTitle.appendChild(price);
 
         const card = document.createElement("div");
         card.className = "md:flex bg-white rounded-lg p-6 w-11/12 shadow-2xl";
