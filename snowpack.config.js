@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/rafaleo06-web/js_dom',
+    baseUrl: 'https://github.com/rafaleo06-web/js_dom.git',
   },
 }
