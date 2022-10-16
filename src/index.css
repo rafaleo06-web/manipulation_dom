@@ -1,3 +1,7 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+.fondo{
+    background-color: rgb(86, 190, 86);
+}
